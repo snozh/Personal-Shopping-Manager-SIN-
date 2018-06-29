@@ -1,0 +1,33 @@
+#frm {
+  background-color: #f44336;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+}
+
+#addBtn {
+  padding: 10px;
+  width: 25%;
+  background: #d9d9d9;
+  color: #555;
+  float: middle;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+}
+
+#addBtn:hover {
+  background-color: #bbb;
+}
+
+#cart {
+  margin-top: 30px;
+  padding: 20px;
+  background: #6fef34;
+}
+
+th, td, tr {
+  border: 1px solid;
+}
